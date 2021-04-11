@@ -1,6 +1,5 @@
 ---
 title: "Project Page"
-description: "Yizhar (Izzy) Toren"
 ---
 
 ## Hi There!
