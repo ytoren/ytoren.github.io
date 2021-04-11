@@ -7,7 +7,8 @@ Cheers!
 
 ## Projects
 
-- [Coding in SQL](/sql-code/)
+- [Coding in SQL](/sql-code/): Doing more with SQL
 
+- [Bayesian Divination](/presentation-bsts/): My presentation on Bayesian structural time series
 
-## [CV](CV.html)
+[My CV](CV.html)
