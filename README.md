@@ -16,6 +16,5 @@ Cheers!
 
 - Large scale quotient graphs and similarity calculations in [python](/pysimscale/) and [R](/simscaleR/)
 
-<hr>
 
-[My CV](CV.html)
+### [My CV](CV.html)
