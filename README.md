@@ -1,10 +1,8 @@
----
-title: "Personal Projects"
----
+### Hi There!
 
-Hi There! This page is still under construction. You can find some of my work below or find me on [LinkedIn](https://linkedin.com/in/ytoren) / [twitter](https://www.twitter.com/BigEndianB).
+This page is still under construction. You can find some of my work below or find me on [LinkedIn](https://linkedin.com/in/ytoren) / [twitter](https://www.twitter.com/BigEndianB).
 
-## Projects
+# Projects
 
 - [Coding in SQL](/sql-code/): Doing more with SQL
 
@@ -13,4 +11,4 @@ Hi There! This page is still under construction. You can find some of my work be
 - Large scale quotient graphs and similarity calculations in [python](/pysimscale/) and [R](/simscaleR/)
 
 
-[My CV](CV.html)
+### [My CV](CV.html)
