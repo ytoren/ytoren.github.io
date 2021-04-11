@@ -3,10 +3,10 @@ title: "Curriculum Vitae: Yizhar (Izzy) Toren"
 date: 2021-03-01
 ---
 
+[Back to my projects page](/)
+
 # Curriculum Vitae: Yizhar (Izzy) Toren
 
-
-[back to my ]
 
 ## Qualifications	(what I do)
 
