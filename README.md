@@ -10,7 +10,7 @@ This page is still under construction. You can find some of my work below or fin
 
 - Large scale quotient graphs and similarity calculations in [python](/pysimscale/) and [R](/simscaleR/)
 
-- An interactive [generative music app]](https://ytoren.shinyapps.io/tuneR/) written in R/Shiny. See [source code](https://github.com/ytoren/generative-music)
+- An interactive [generative music app](https://ytoren.shinyapps.io/tuneR/) written in R/Shiny. See [source code](https://github.com/ytoren/generative-music)
 
 - [A slack "chatbot"](/slack-data-bot-plumber/) using R-Plumber
 
