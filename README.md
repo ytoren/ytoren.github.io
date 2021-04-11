@@ -14,6 +14,7 @@ Cheers!
 
 - [Bayesian Divination](/presentation-bsts/): My presentation on Bayesian structural time series
 
+- Large scale quotient graphs and similarity calculations in [python](/pysimscale/) and [R](/simscaleR/)
 
 <hr>
 
