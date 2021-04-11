@@ -15,4 +15,4 @@ Cheers!
 
 - [Bayesian Divination](/presentation-bsts/): My presentation on Bayesian structural time series
 
-[My CV](CV.html)
+#### [My CV](CV.html)
