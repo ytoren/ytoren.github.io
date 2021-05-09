@@ -7,7 +7,7 @@ This page is still under construction. You can find some of my work below or fin
 
 - [Coding in SQL](/sql-code/): Doing more with SQL
 
-- Large scale quotient graphs and similarity calculations [paper]
+- [Large scale quotient graphs and similarity calculations](/papers/quotient-similarity/qsim.pdf)
 
 - [Talking Bayes to Business](https://www.slideshare.net/YizharToren/talking-bayes-to-business-marketing-spend-usecase-earl2019): Marketing spend use-case (from EARL2019)
 
@@ -23,7 +23,7 @@ This page is still under construction. You can find some of my work below or fin
 
 # Projects
 
-- Large scale quotient graphs and similarity calculations [python package](/pysimscale/) / [R package](/simscaleR/)
+- Large scale quotient graphs and similarity calculations [python package](/pysimscale/) / [R package](/simscaleR/) / [paper](/papers/quotient-similarity/qsim.pdf)
 
 - An interactive [generative music app](https://ytoren.shinyapps.io/tuneR/) written in R/Shiny. See [source code](https://github.com/ytoren/generative-music)
 
