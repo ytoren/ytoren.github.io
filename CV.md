@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae: Yizhar (Izzy) Toren"
-date: 2021-03-01
+date: 2021-08-01
 ---
 
 [Back to my projects page](/)
@@ -12,11 +12,11 @@ date: 2021-03-01
 
 
 ### Analytics & Optimization
-I learn the stakeholders’ world view and terminology and translate them into solvable analytical problems. I provide in depth analysis and deliver timely, practical recommendations. I’ve implemented behavioral analytics for segmentation and optimization and built NLP based recommendation systems.
+I learn the stakeholders’ world view and terminology and translate them into solvable analytical problems. I provide in depth analysis and deliver timely, practical recommendations. I’ve implemented behavioural analytics for segmentation and optimization and built NLP & image based recommendation systems.
 
 
 ### Statistics & machine learning
-I design and build a wide array of statistical models - GLM/GAM, survival analysis, tree methods, neural nets, Bayesian methods, NLP, etc. I have designed controlled experiments, worked with data on small and large scale (from clinical trials to big data from production machines) and designed ETL process to engineer new data features, so I’m familiar with both experimental/ prototyping and engineering concepts.
+I design and build a wide array of statistical models - GLM/GAM, survival analysis, tree methods, neural nets, Bayesian methods, NLP, etc. I have designed controlled experiments, worked with data on small and large scale (from clinical trials to big data from production machines) and designed ETL process to engineer new data features, so I’m familiar with both experimental / prototyping and engineering concepts.
 
 
 ### Teamwork & Delivery
@@ -32,7 +32,7 @@ I presented in several conferences, wrote white papers on customer behaviour and
 
 
 ### Programming / engineering skills
-R (expert), Python, SQL, Excel/BI, NLP frameworks (spaCy) and some work R/PySpark, H2O, STAN and ElasticSearch.
+R (expert), Python, SQL, Spark(SQL/R/Py), Excel/BI, NLP frameworks (spaCy) and some work with H2O, STAN and ElasticSearch.
 
 
 ## Education
@@ -49,6 +49,9 @@ R (expert), Python, SQL, Excel/BI, NLP frameworks (spaCy) and some work R/PySpar
 
 
 ## Publications and conferences
+- Berlin Buzzwords 2021
+- ML week 2021
+- Nordic Data Science & ML Summit 2021
 - Predictive Analytics World 2020
 - [EARL2019](https://earlconf.com/)
 - [DataCouncil 2018 BCN](https://www.datacouncil.ai/barcelona)
@@ -57,4 +60,4 @@ R (expert), Python, SQL, Excel/BI, NLP frameworks (spaCy) and some work R/PySpar
 
 
 ## Languages
-Hebrew & English (native speaker level)
+Hebrew & English (native speaker level), very basic German
