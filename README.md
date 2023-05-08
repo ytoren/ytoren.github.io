@@ -7,7 +7,11 @@ This page is still under construction. You can find some of my work below or fin
 
 - [Coding in SQL](/sql-code/): Doing more with SQL
 
-- [Large scale quotient graphs and similarity calculations](/papers/quotient-similarity/qsim.pdf)
+- [On experimental drift and product driven data design](https://www.youtube.com/watch?v=xbaI__8lZig): A talk I gave at PyData London 2022
+
+- [Learning from Pilots](https://www.youtube.com/watch?v=oerJcOHVdvE): A talk about how to learn from small non-randomized pilots, setting up good experementation for rare events / small groups and organizing insights from multiple experiments.  
+
+- [Large scale quotient graphs and similarity calculations](/papers/quotient-similarity/qsim.pdf): Summary paper on faster similarity matrix calculations for some interesting cases.
 
 - [Talking Bayes to Business](https://www.slideshare.net/YizharToren/talking-bayes-to-business-marketing-spend-usecase-earl2019): Marketing spend use-case (from EARL2019)
 
