@@ -1,17 +1,11 @@
-### Hi There!
-
 This page is still under construction. You can find some of my work below or find me on [LinkedIn](https://linkedin.com/in/ytoren) / [twitter](https://www.twitter.com/BigEndianB) or take a look at my [My CV](CV.html).
 
 
-# Writing & Speaking
-
-- [Coding in SQL](/sql-code/): Doing more with SQL
+# Speaking
 
 - [On experimental drift and product driven data design](https://www.youtube.com/watch?v=xbaI__8lZig): A talk I gave at PyData London 2022
 
 - [Learning from Pilots](https://www.youtube.com/watch?v=oerJcOHVdvE): A talk about how to learn from small non-randomized pilots, setting up good experementation for rare events / small groups and organizing insights from multiple experiments.  
-
-- [Large scale quotient graphs and similarity calculations](/papers/quotient-similarity/qsim.pdf): Summary paper on faster similarity matrix calculations for some interesting cases.
 
 - [Talking Bayes to Business](https://www.slideshare.net/YizharToren/talking-bayes-to-business-marketing-spend-usecase-earl2019): Marketing spend use-case (from EARL2019)
 
@@ -21,11 +15,14 @@ This page is still under construction. You can find some of my work below or fin
 
 - [Ordinal Risk-Group Classification](https://arxiv.org/abs/1012.5487) (my MA thesis)
 
-- [The cost-effectiveness of stress testing using high-frequency QRS analysis](https://www.researchgate.net/publication/251472519_The_cost-effectiveness_of_stress_testing_using_high-frequency_QRS_analysis)
 
 
 
-# Projects
+# Projects & writing
+
+- Systems and methods for recommending retailer-supplier associations to support volume stability (US Patent [US20220076306A1](https://patents.google.com/patent/US20220076306A1/en))
+
+- [Coding in SQL](/sql-code/): Doing more with SQL
 
 - Large scale quotient graphs and similarity calculations [python package](/pysimscale/) / [R package](/simscaleR/) / [paper](/papers/quotient-similarity/qsim.pdf)
 
@@ -36,3 +33,5 @@ This page is still under construction. You can find some of my work below or fin
 - [Protocol Gifts](/ProtocolGifts/): Scraped data from the US department website about presents give to POTUS. See also [dataset on Kaggle](https://www.kaggle.com/ytoren/protocol-gifts)
 
 - [Analysis of the Poluto dataset](/Pulotu/Pulotu_analysis.html) (see also [source](/Poluto/))
+
+- [The cost-effectiveness of stress testing using high-frequency QRS analysis](https://www.inderscienceonline.com/doi/abs/10.1504/IJMEI.2013.051666?journalCode=ijmei)
