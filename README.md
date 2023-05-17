@@ -7,6 +7,8 @@ This page is still under construction. You can find some of my work below or fin
 
 - [Learning from Pilots](https://www.youtube.com/watch?v=oerJcOHVdvE): A talk about how to learn from small non-randomized pilots, setting up good experementation for rare events / small groups and organizing insights from multiple experiments.  
 
+- [Please, don't tell me what's in the picture](https://hyperight.com/please-dont-tell-me-whats-in-the-picture-yizhar-izzy-toren-shopify/): My talk from NDSML about our journy towards image based catalog classification. Also [on YouTube](https://www.youtube.com/watch?v=aKjb5Ig7mzE)
+
 - [Talking Bayes to Business](https://www.slideshare.net/YizharToren/talking-bayes-to-business-marketing-spend-usecase-earl2019): Marketing spend use-case (from EARL2019)
 
 - Bayesian Divination: My presentation on Bayesian structural time series from Berlin Bayesian meetup at 2019. [Video](https://www.youtube.com/watch?v=mYN7p36Chvg) / [Slides](https://www.slideshare.net/YizharToren/bayesian-divination-time-series-analysis-forecasting-with-bayesian-toolkits-2019) / [Code](https://github.com/ytoren/presentation-bsts)
